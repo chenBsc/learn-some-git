@@ -1,0 +1,36 @@
+div {
+  border: solid green 2px;
+  width: 75%;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+
+.first {
+  background-color: rgb(201, 235, 201);
+}
+.second {
+  background-color: rgb(214, 214, 136);
+  
+}
+.third {
+  background-color: rgb(6, 82, 22);
+}
+
+.first-h1 {
+  font-weight: bold;
+  color: black;
+  font-family: "Montserrat", sans-serif;
+}
+
+.second-h1 {
+  font-weight: bold;
+  color: rgba(240, 233, 233, 0.295);
+  font-family: "Montserrat", sans-serif;
+}
+.third-h1 {
+  background-color: white;
+  border: solid green 2px;
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  padding: 10px;
+}
