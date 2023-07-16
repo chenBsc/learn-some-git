@@ -37,6 +37,8 @@ body {
   position: fixed;
   top: 0px;
   z-index: 1;
+  display: flex;
+
 }
 
 .main-header > div {
@@ -175,4 +177,28 @@ justify-content: space-between;
    background-color: black;
    text-align: center;
    
+}
+.menu-desktop{
+  position: fixed;
+  list-style: none;
+  text-decoration: none;
+  left: -20px;
+    top: 30px;
+    background-color: white;
+    border: solid 2px purple;
+    border-radius:20px ;
+    ;
+}
+.menu-desktop li {
+margin: 10px
+};
+
+
+
+
+.nav-bar{
+  position: fixed;
+}
+.myHamburger{
+  display: inline-block;
 }
